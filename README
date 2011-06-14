@@ -1,0 +1,9 @@
+Kazsid is a pure Debian live system, targeted on Kazakh users.
+
+It was based on Debian sid branch, but switched to testing.
+
+To build it, you should have Debian wheezy box (recommended), and
+live-build package installed.
+
+Usually I build it with
+"time sudo lb build 2>&1 | tee build.log" command

@@ -1,0 +1,10 @@
+binary.iso
+binary.list
+binary.packages
+*.iso
+build.log
+cache
+chroot
+*.deb
+*.mo
+dictd_www.mova.org_sokrat*

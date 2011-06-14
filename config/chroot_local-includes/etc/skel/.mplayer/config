@@ -1,0 +1,2 @@
+# select audio output as ALSA, to prevent delay at startup, because of pulse
+ao=alsa

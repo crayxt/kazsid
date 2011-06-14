@@ -1,0 +1,201 @@
+# /usr/share/live/build/lists/xfce - package list for live-build(7)
+# adapted for kazsid
+
+## LH: Xfce
+#include <standard-x11>
+
+#begin of xfce4 group
+xfwm4
+xfconf
+xfce4-settings
+xfce4-panel
+xfdesktop4
+thunar
+thunar-volman
+xfce4-utils
+gtk2-engines-xfce
+gtk2-engines
+xfce4-session
+xfce4-appfinder
+orage
+xorg
+xdg-utils
+libgl1-mesa-dev
+desktop-base
+gvfs
+gvfs-backends
+#end of xfce4
+slimevolley
+gdm3
+libpam-gnome-keyring
+desktop-base
+#### multimedia lib, for xfburn
+gstreamer0.10-alsa
+gstreamer0.10-plugins-base
+###
+poedit
+remmina
+remmina-plugin-rdp
+remmina-plugin-vnc
+remmina-plugin-xdmcp
+fontypython
+mplayer
+gnome-mplayer
+tango-icon-theme
+ttf-dejavu
+ttf-liberation
+ttf-mscorefonts-installer
+# stock iceweasel dropped since we use iceweasel from experimental. Look in chroot_local-packages
+#iceweasel
+#iceweasel-l10n-kk
+#iceweasel-l10n-ru
+## deadbeef was downloaded from http://hadret.rootnode.net/debian/pool/main/d/deadbeef/
+#deadbeef
+flashplugin-nonfree
+#gnumeric
+#abiword
+geany
+xfce4-terminal
+xfce4-xkb-plugin
+xfce4-screenshooter
+xfce4-power-manager
+xfce4-notifyd
+xfce4-taskmanager
+xfce4-notes
+xfce4-notes-plugin
+xfce4-volumed
+xfburn
+#xlockmore
+## requiremenets for live-installer, inxi is in chroot_local-packages
+grub
+gawk
+mesa-utils
+python-parted
+## live-installer presents as deb packages
+#live-installer
+## some console stuff
+nmap
+telnet
+zsh
+pkg-config
+strace
+ntpdate
+laptop-mode-tools
+#pm-utils
+smartmontools
+plymouth
+plymouth-themes-all
+htop
+atop
+hdparm
+mc
+gpm
+wvdial
+w3m
+pppoeconf
+pppoe
+lm-sensors
+cpufrequtils
+powertop
+hwinfo
+screen
+bc
+bash-completion
+unrar
+unzip
+zip
+dosfstools
+mtools
+ntfs-3g
+reiserfsprogs
+jfsutils
+p7zip-full
+p7zip-rar
+localepurge
+acpi
+acpid
+git
+freerdp-x11
+### GUI stuff
+shotwell
+gpodder
+#gajim-nightly
+stardict
+##stardict-kazrus
+gparted
+hunspell
+hunspell-kk
+aspell-ru
+myspell-ru
+evince-gtk
+xchm
+transmission-gtk
+klavaro
+file-roller
+galculator
+blueman
+moc
+## firmwares
+firmware-ipw2x00
+firmware-iwlwifi
+firmware-ralink
+firmware-brcm80211
+firmware-realtek
+firmware-bnx2
+firmware-atheros
+### misc
+comix
+gdebi
+network-manager
+network-manager-gnome
+network-manager-vpnc
+network-manager-vpnc-gnome
+network-manager-pptp
+network-manager-openvpn
+libzlui-gtk
+fbreader
+#### art, themes, wallpapers, etc. they're placed as deb files
+#equinox-themes
+#faenza-cupertino-icon-theme
+#end of art
+### mega edition
+#-#mencoder
+gimp
+#-#gimp-help-ru
+#-#inkscape
+audacity
+audacious
+easytag
+gnucash
+#-#gnucash-docs
+mcabber
+build-essential
+sun-java6-jre
+sun-java6-plugin
+freemind
+#wine
+#subtitleeditor
+#gstreamer0.10-plugins-bad
+#-#gstreamer0.10-plugins-good
+#-#gstreamer0.10-plugins-ugly
+#-#gstreamer0.10-ffmpeg
+#gstreamer0.10-fluendo
+libreoffice-l10n-ru
+libreoffice-gtk
+libreoffice-writer
+libreoffice-calc
+libreoffice-impress
+libreoffice-draw
+qemu-kvm
+#-#qutim
+#-#qutim-protocol-icq
+#-#qutim-protocol-irc
+#-#qutim-protocol-mrim
+#-#qutim-protocol-jabber
+#-#qutim-plugin-histman
+#-#qutim-plugin-floaties
+#-#qutim-plugin-nowlistening
+#-#qutim-languages
+# end of the mega
+tmux
+arandr
