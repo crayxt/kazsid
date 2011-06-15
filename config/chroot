@@ -54,7 +54,7 @@ LB_PACKAGE_LISTS="standard"
 
 # $LB_TASKS: set tasks to install
 # (Default: empty)
-LB_TASKS="standard"
+LB_TASKS=""
 
 # $LB_SECURITY: enable security updates
 # (Default: false)
