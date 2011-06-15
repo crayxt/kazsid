@@ -5,6 +5,10 @@ binary.packages
 build.log
 cache
 chroot/*
+binary/*
+.stage/*
+binary.packages.live
+binary.packages.install
 *.deb
 *.mo
 dictd_www.mova.org_sokrat*
