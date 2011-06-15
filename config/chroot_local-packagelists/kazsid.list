@@ -12,6 +12,8 @@ xfce4-panel
 xfdesktop4
 thunar
 thunar-volman
+thunar-archive-plugin
+thunar-media-tags-plugin
 xfce4-utils
 gtk2-engines-xfce
 gtk2-engines

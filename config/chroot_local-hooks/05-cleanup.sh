@@ -15,3 +15,4 @@ done
 
 # Reset apt proxy
 echo > /etc/apt/apt.conf.d/7proxy
+dpkg-reconfigure gdm3
