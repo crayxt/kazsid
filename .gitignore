@@ -4,7 +4,7 @@ binary.packages
 *.iso
 build.log
 cache
-chroot
+chroot/*
 *.deb
 *.mo
 dictd_www.mova.org_sokrat*
