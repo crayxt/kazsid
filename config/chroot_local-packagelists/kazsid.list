@@ -55,6 +55,7 @@ flashplugin-nonfree
 #gnumeric
 #abiword
 geany
+filezilla
 xfce4-terminal
 xfce4-xkb-plugin
 xfce4-screenshooter
@@ -111,7 +112,6 @@ reiserfsprogs
 jfsutils
 p7zip-full
 p7zip-rar
-localepurge
 acpi
 acpid
 git
@@ -119,7 +119,7 @@ freerdp-x11
 ### GUI stuff
 shotwell
 gpodder
-#gajim-nightly
+gajim
 stardict
 ##stardict-kazrus
 gparted
@@ -164,7 +164,7 @@ gimp
 #-#gimp-help-ru
 #-#inkscape
 audacity
-audacious
+#audacious
 easytag
 gnucash
 #-#gnucash-docs
