@@ -12,3 +12,4 @@ binary.packages.install
 *.deb
 *.mo
 dictd_www.mova.org_sokrat*
+.lock

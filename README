@@ -5,5 +5,9 @@ It was based on Debian sid branch, but switched to testing.
 To build it, you should have Debian wheezy box (recommended), and
 live-build package installed.
 
+At first, run the download-packages.sh script to get some
+packages to install. We are using them because those packages
+are not in the official Debian repos.
+
 Usually I build it with
 "time sudo lb build 2>&1 | tee build.log" command
