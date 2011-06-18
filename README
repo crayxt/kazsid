@@ -9,5 +9,12 @@ At first, run the download-packages.sh script to get some
 packages to install. We are using them because those packages
 are not in the official Debian repos.
 
+While building an image, you will have to accept some
+licences. Because of that, dialog frontend for dpkg
+was chosen. Don't know how to automate that.
+
+By the way, to reduce the final image size,
+all locales except kk,ru,en are removed with localepurge.
+
 Usually I build it with
 "time sudo lb build 2>&1 | tee build.log" command
