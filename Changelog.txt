@@ -1,0 +1,10 @@
+2011-06-18
+* Initial upload;
+* Update wine (frickelplatze.de), deadbeef, live-installer;
+* Drop abiword, gnumeric, audacious;
+* Binary indices now included to CD;
+* Change syslinux menu;
+* add Filezilla;
+* lb config -k 686;
+* ttf-microsoft-installer replaced with http://archive.debian-maintainers.org/unofficial/packages/microsoft-corefonts/current_all/ttf-microsoft-corefonts_1-1_all.deb
+* .gitignore -chroot
