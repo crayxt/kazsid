@@ -46,7 +46,7 @@ gnome-mplayer
 tango-icon-theme
 ttf-dejavu
 ttf-liberation
-ttf-mscorefonts-installer
+#ttf-mscorefonts-installer
 # stock iceweasel dropped since we use iceweasel from experimental. Look in chroot_local-packages
 #iceweasel
 #iceweasel-l10n-kk
@@ -132,6 +132,7 @@ myspell-ru
 evince-gtk
 xchm
 transmission-gtk
+uget
 klavaro
 file-roller
 galculator
