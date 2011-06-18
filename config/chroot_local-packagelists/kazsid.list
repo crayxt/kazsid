@@ -59,7 +59,6 @@ flashplugin-nonfree
 geany
 filezilla
 xfce4-terminal
-xfce4-xkb-plugin
 xfce4-screenshooter
 xfce4-power-manager
 xfce4-notifyd
@@ -68,6 +67,7 @@ xfce4-notes
 xfce4-notes-plugin
 xfce4-volumed
 xfburn
+xxkb
 #xlockmore
 ## requiremenets for live-installer, inxi is in chroot_local-packages
 grub
