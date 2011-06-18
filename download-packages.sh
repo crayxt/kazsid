@@ -1,7 +1,7 @@
 #!/bin/bash
 #################################################################################
 ## using the precompiled software packages from third				#
-## party repositaries is a bad idea. Consider compiling that packages yourself,	#
+## party repositories is a bad idea. Consider compiling that packages yourself,	#
 ## or stick with official Debian repos only.					#
 ## You have been warned!							#
 #################################################################################
