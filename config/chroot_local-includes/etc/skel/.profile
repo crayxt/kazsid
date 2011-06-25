@@ -20,5 +20,3 @@ fi
 if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
 fi
-setxkbmap -layout 'us,ru,kz' -option 'grp:ctrl_shift_toggle'
-xxkb &
