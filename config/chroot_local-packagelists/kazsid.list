@@ -79,7 +79,6 @@ python-parted
 ## some console stuff
 nmap
 telnet
-zsh
 pkg-config
 strace
 ntpdate
