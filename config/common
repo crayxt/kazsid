@@ -49,7 +49,7 @@ LB_CACHE_STAGES="bootstrap"
 
 # $LB_DEBCONF_FRONTEND: set debconf(1) frontend to use
 # (Default: dialog)
-LB_DEBCONF_FRONTEND="dialog"
+LB_DEBCONF_FRONTEND="noninteractive"
 
 # $LB_DEBCONF_NOWARNINGS: set debconf(1) warnings
 # (Default: yes)
