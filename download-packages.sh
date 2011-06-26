@@ -20,7 +20,7 @@ PACKAGES=('http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/iceweasel_4.
 		'http://www.softwarebakery.com/maato/files/volumeicon/volumeicon_0.3.0_i386.deb'
 		'http://mail.kazgrid.kz/repo/equinox-themes_1.30.2-3_all.deb'
 		'http://mail.kazgrid.kz/repo/equinox-themes-extra_1.30.2-1_all.deb'
-		'http://mail.kazgrid.kz/repo/gtk2-engines-equinox_1.40-1_i386.deb'
+		'http://mail.kazgrid.kz/repo/gtk2-engines-equinox_1.30.2-2_i386.deb'
 		'http://mail.kazgrid.kz/repo/faenza-icon-theme_0.9.2-0.1_all.deb'
 		'http://mail.kazgrid.kz/repo/faenza-cupertino-icon-theme_0.1-1_all.deb'
 		'http://archive.debian-maintainers.org/unofficial/packages/microsoft-corefonts/current_all/ttf-microsoft-corefonts_1-1_all.deb'

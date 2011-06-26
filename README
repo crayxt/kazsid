@@ -13,9 +13,10 @@ At first, run the download-packages.sh script to get some
 packages to install. We are using them because those packages
 are not in the official Debian repos.
 
-While building an image, you will have to accept some
-licences. Because of that, dialog frontend for dpkg
-was chosen. Don't know how to automate that.
+There are some firmware packages and Sun's Java 6, which
+have their own licences. Those licences are autoaccepted
+during build. Take a look at
+config/chroot_local-preseed directory.
 
 By the way, to reduce the final image size,
 all locales except kk,ru,en are removed with localepurge.
