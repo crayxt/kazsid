@@ -1,3 +1,7 @@
+2011-07-05
+* Update Iceweasel to 5.0;
+* Volumeicon now in debian repos;
+
 2011-06-23
 * Remove empty folders and check whether it would build successfully;
 
