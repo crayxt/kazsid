@@ -8,7 +8,7 @@
 
 DIRECTORY="config/chroot_local-packages"
 DEBMIRROR="http://mirror-kt.neolabs.kz/debian"
-PACKAGES=('DEBMIRROR/pool/main/i/iceweasel/iceweasel_5.0-1_i386.deb''
+PACKAGES=('DEBMIRROR/pool/main/i/iceweasel/iceweasel_5.0-1_i386.deb'
 		'$DEBMIRROR/pool/main/i/iceweasel/libmozjs5d_5.0-2_i386.deb'
 		'$DEBMIRROR/pool/main/i/iceweasel/xulrunner-5.0_5.0-2_i386.deb'
 		'$DEBMIRROR/pool/main/i/iceweasel-l10n/iceweasel-l10n-kk_5.0+debian-1_all.deb'
