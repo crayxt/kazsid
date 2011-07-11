@@ -24,7 +24,7 @@ PACKAGES=('http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/iceweasel_5.
 		'http://mail.kazgrid.kz/repo/faenza-icon-theme_0.9.2-0.1_all.deb'
 		'http://mail.kazgrid.kz/repo/faenza-cupertino-icon-theme_0.1-1_all.deb'
 		'http://archive.debian-maintainers.org/unofficial/packages/microsoft-corefonts/current_all/ttf-microsoft-corefonts_1-1_all.deb'
-		'http://frickelplatz.de/debian/dists/unstable/main/binary-i386/otherosfs/wine_1.3.22-1~frickel.1_i386.deb'
+		'http://frickelplatz.de/debian/dists/unstable/main/binary-i386/otherosfs/wine_1.3.24-0.frickel.1_i386.deb'
 		'http://linukz.org/debian/pool/main/s/stardict-kazrus/stardict-kazrus_20100827-1_all.deb'
 	)
 
