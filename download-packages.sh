@@ -17,7 +17,6 @@ PACKAGES=('http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/iceweasel_5.
 		'http://mirror-kt.neolabs.kz/debian/pool/main/p/pm-utils/pm-utils_1.3.0-3_all.deb'
 		'http://dl.dropbox.com/u/5626215/live-installer_2011.06.10%7Ekazsid0_all.deb'
 		'http://dl.dropbox.com/u/5626215/deadbeef_0.5.1-1_i386.deb'
-		'http://mirror-kt.neolabs.kz/debian/pool/main/v/volumeicon/volumeicon-alsa_0.4.1-1_i386.deb'
 		'http://mail.kazgrid.kz/repo/equinox-themes_1.30.2-3_all.deb'
 		'http://mail.kazgrid.kz/repo/equinox-themes-extra_1.30.2-1_all.deb'
 		'http://mail.kazgrid.kz/repo/gtk2-engines-equinox_1.30.2-2_i386.deb'
