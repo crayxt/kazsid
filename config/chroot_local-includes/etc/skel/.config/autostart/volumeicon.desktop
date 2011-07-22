@@ -2,9 +2,9 @@
 Encoding=UTF-8
 Version=0.9.4
 Type=Application
-Name=xxkb
-Comment=xxkb
-Exec=/usr/bin/xxkb
+Name=volumeicon
+Comment=volumeicon
+Exec=volumeicon
 StartupNotify=false
 Terminal=false
 Hidden=false
