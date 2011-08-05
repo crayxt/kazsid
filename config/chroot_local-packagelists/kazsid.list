@@ -14,6 +14,7 @@ ttf-droid
 flashplugin-nonfree
 ## requiremenets for live-installer, inxi is in chroot_local-packages
 grub
+os-prober
 gawk
 mesa-utils
 python-parted
