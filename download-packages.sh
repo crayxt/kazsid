@@ -7,11 +7,11 @@
 #################################################################################
 
 DIRECTORY="config/chroot_local-packages"
-PACKAGES=('http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/iceweasel_5.0-1_i386.deb'
-		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/libmozjs5d_5.0-2_i386.deb'
-		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/xulrunner-5.0_5.0-2_i386.deb'
-		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel-l10n/iceweasel-l10n-kk_5.0+debian-1_all.deb'
-		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel-l10n/iceweasel-l10n-ru_5.0+debian-1_all.deb'
+PACKAGES=('http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/iceweasel_5.0-6_i386.deb'
+		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/libmozjs5d_5.0-6_i386.deb'
+		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/xulrunner-5.0_5.0-6_i386.deb'
+		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel-l10n/iceweasel-l10n-kk_5.0+debian-2_all.deb'
+		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel-l10n/iceweasel-l10n-ru_5.0+debian-2_all.deb'
 		'http://mirror-kt.neolabs.kz/linuxmint/packages/pool/import/i/inxi/inxi_1.4.23-1_all.deb'
 		'http://mirror-kt.neolabs.kz/debian/pool/main/x/xlockmore/xlockmore-gl_5.31-1_i386.deb'
 		'http://mirror-kt.neolabs.kz/debian/pool/main/p/pm-utils/pm-utils_1.3.0-3_all.deb'
