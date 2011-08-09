@@ -33,6 +33,7 @@ plymouth
 plymouth-themes-all
 htop
 atop
+lsof
 hdparm
 mc
 aria2
