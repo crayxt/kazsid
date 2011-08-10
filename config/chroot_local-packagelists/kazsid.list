@@ -34,6 +34,7 @@ plymouth-themes-all
 htop
 atop
 lsof
+rfkill
 hdparm
 mc
 aria2
