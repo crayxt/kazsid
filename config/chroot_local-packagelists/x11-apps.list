@@ -11,6 +11,7 @@ thunar
 thunar-volman
 thunar-archive-plugin
 thunar-media-tags-plugin
+tumbler
 xfce4-utils
 gtk2-engines-xfce
 gtk2-engines
@@ -81,4 +82,5 @@ xfce4-battery-plugin
 xfce4-volumed
 xfburn
 xxkb
+qemu-kvm
 
