@@ -64,6 +64,7 @@ p7zip-rar
 acpi
 acpid
 git
+openssh-client
 freerdp-x11
 hunspell
 hunspell-kk
