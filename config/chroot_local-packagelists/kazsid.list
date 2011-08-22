@@ -98,3 +98,7 @@ network-manager-openvpn
 # end of the mega
 tmux
 arandr
+cups
+xsane
+sane
+smbclient
