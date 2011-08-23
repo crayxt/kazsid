@@ -99,6 +99,7 @@ network-manager-openvpn
 tmux
 arandr
 cups
+hplip
 xsane
 sane
 smbclient
