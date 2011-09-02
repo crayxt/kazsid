@@ -1,15 +1,15 @@
 #!/bin/bash
 #################################################################################
 ## using the precompiled software packages from third				#
-## party repositories is a bad idea. Consider compiling that packages yourself,	#
+## party repositories is a bad idea. Consider compiling these packages yourself	#
 ## or stick with official Debian repos only.					#
 ## You have been warned!							#
 #################################################################################
 
 DIRECTORY="config/chroot_local-packages"
-PACKAGES=('http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/iceweasel_6.0-2_i386.deb'
-		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/libmozjs6d_6.0-2_i386.deb'
-		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/xulrunner-6.0_6.0-2_i386.deb'
+PACKAGES=('http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/iceweasel_6.0-4_i386.deb'
+		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/libmozjs6d_6.0-4_i386.deb'
+		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/xulrunner-6.0_6.0-4_i386.deb'
 		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel-l10n/iceweasel-l10n-kk_6.0+debian-1_all.deb'
 		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel-l10n/iceweasel-l10n-ru_6.0+debian-1_all.deb'
 		'http://mirror-kt.neolabs.kz/linuxmint/packages/pool/import/i/inxi/inxi_1.4.23-1_all.deb'
