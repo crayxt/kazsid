@@ -2,19 +2,17 @@ Kazsid is a pure Debian live system, targeted on Kazakh users.
 Its purpose is to provide a full-featured desktop Linux
 entirely on Kazakh language.
 
-It was based on Debian sid branch, but switched to testing.
-We couldn't find a replace to its name, so we decided to
-leave the old name.
+It is based on Debian sid.
 
-To build it, you should have Debian wheezy box (recommended), and
-live-build package installed.
+To build it, you should have Debian wheezy/sid box, and
+live-build package (>3.0) installed.
 
 At first, run the download-packages.sh script to get some
-packages to install. We are using them because those packages
+packages to install. We are using them because these packages
 are not in the official Debian repos.
 
 There are some firmware packages and Sun's Java 6, which
-have their own licences. Those licences are autoaccepted
+have their own licences. These licences are autoaccepted
 during build. Take a look at
 config/chroot_local-preseed directory.
 
