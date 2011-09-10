@@ -7,13 +7,7 @@
 #################################################################################
 
 DIRECTORY="config/chroot_local-packages"
-PACKAGES=('http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/iceweasel_6.0-4_i386.deb'
-		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/libmozjs6d_6.0-4_i386.deb'
-		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel/xulrunner-6.0_6.0-4_i386.deb'
-		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel-l10n/iceweasel-l10n-kk_6.0+debian-1_all.deb'
-		'http://mirror-kt.neolabs.kz/debian/pool/main/i/iceweasel-l10n/iceweasel-l10n-ru_6.0+debian-1_all.deb'
-		'http://mirror-kt.neolabs.kz/linuxmint/packages/pool/import/i/inxi/inxi_1.4.23-1_all.deb'
-		'http://mirror-kt.neolabs.kz/debian/pool/main/x/xlockmore/xlockmore-gl_5.31-1_i386.deb'
+PACKAGES=(	'http://mirror-kt.neolabs.kz/linuxmint/packages/pool/import/i/inxi/inxi_1.4.23-1_all.deb'
 		'http://mirror-kt.neolabs.kz/debian/pool/main/p/pm-utils/pm-utils_1.3.0-3_all.deb'
 		'http://dl.dropbox.com/u/5626215/live-installer_2011.06.10%7Ekazsid0_all.deb'
 		'http://dl.dropbox.com/u/5626215/deadbeef_0.5.1-1_i386.deb'
