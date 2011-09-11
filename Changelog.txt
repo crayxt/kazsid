@@ -3,6 +3,7 @@
 * Use Iceweasel from sid;
 * Use xz compression type, reduced size of iso;
 * Update Faenza icons and gtk2-engines-equinox
+* Tested on my netbook
 
 2011-07-05
 * Update Iceweasel to 5.0;
