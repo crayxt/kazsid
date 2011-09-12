@@ -27,6 +27,7 @@ gvfs-backends
 #end of xfce4
 slimevolley
 gdm3
+gnome-settings-daemon
 poedit
 remmina
 remmina-plugin-rdp
