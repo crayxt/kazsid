@@ -81,6 +81,12 @@ firmware-brcm80211
 firmware-realtek
 firmware-bnx2
 firmware-atheros
+firmware-linux-free
+firmware-linux-nonfree
+b43-fwcutter
+bluez-firmware
+microcode.ctl
+firmware-intelwimax
 ### misc
 network-manager
 network-manager-gnome
@@ -105,3 +111,5 @@ hplip
 xsane
 sane
 smbclient
+tcpdump
+chntpw
