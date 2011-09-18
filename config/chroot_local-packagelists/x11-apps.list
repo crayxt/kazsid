@@ -20,6 +20,7 @@ xfce4-appfinder
 orage
 xorg
 xdg-utils
+xdg-user-dirs-gtk
 libgl1-mesa-dev
 desktop-base
 gvfs
@@ -88,3 +89,4 @@ iceweasel
 iceweasel-l10n-kk
 iceweasel-l10n-ru
 xlockmore-gl
+gpointing-device-settings
