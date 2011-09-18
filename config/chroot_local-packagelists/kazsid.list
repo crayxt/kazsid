@@ -65,6 +65,7 @@ acpi
 acpid
 git
 rsync
+less
 openssh-client
 freerdp-x11
 hunspell
