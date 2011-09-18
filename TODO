@@ -1,0 +1,6 @@
+20110918
+* Implement failover locale switch to Russian, in case
+  when there is no Kazakh l10n for some app.(LO,Gimp).
+* Move the desktop customization settings from /etc/skel/.config
+  to /etc/xdg (the right way).
+* Put the installer icon to Desktop, also localize the installer.
