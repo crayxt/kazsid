@@ -64,6 +64,7 @@ p7zip-rar
 acpi
 acpid
 git
+rsync
 openssh-client
 freerdp-x11
 hunspell
