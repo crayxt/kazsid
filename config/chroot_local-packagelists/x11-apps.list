@@ -17,6 +17,7 @@ gtk2-engines-xfce
 gtk2-engines
 xfce4-session
 xfce4-appfinder
+xfswitch-plugin
 orage
 xorg
 xdg-utils

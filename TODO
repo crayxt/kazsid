@@ -4,3 +4,6 @@
 * Move the desktop customization settings from /etc/skel/.config
   to /etc/xdg (the right way).
 * Put the installer icon to Desktop, also localize the installer.
+* Provide the right config for file types, look into
+  /usr/share/applications/mimeinfo.cache, prevent the Gimp
+  opening pdf files, etc.
