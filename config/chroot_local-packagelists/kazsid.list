@@ -36,6 +36,7 @@ atop
 lsof
 rfkill
 hdparm
+hddtemp
 mc
 aria2
 ssl-cert
