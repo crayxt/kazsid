@@ -71,6 +71,7 @@ openssh-client
 freerdp-x11
 hunspell
 hunspell-kk
+aspell-kk
 aspell-ru
 myspell-ru
 aspell-en
@@ -117,3 +118,7 @@ smbclient
 tcpdump
 chntpw
 reportbug
+mailx
+fakeroot
+devscripts
+debhelper
