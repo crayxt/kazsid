@@ -118,7 +118,7 @@ smbclient
 tcpdump
 chntpw
 reportbug
-mailx
+heirloom-mailx
 fakeroot
 devscripts
 debhelper
