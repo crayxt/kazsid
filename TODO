@@ -1,6 +1,11 @@
+20110923
+* Make the boot menu more useful, provide menu entry for
+  memtest, which is put by the live-build.
+
 20110918
 * Implement failover locale switch to Russian, in case
   when there is no Kazakh l10n for some app.(LO,Gimp).
+ (I think now. that this is not useful).
 * Move the desktop customization settings from /etc/skel/.config
   to /etc/xdg (the right way).
 * Put the installer icon to Desktop, also localize the installer.
