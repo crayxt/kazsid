@@ -21,7 +21,8 @@
         <value type="int" value="6"/>
         <value type="int" value="15"/>
         <value type="int" value="5"/>
-        <value type="int" value="2"/>
+        <value type="int" value="16"/>
+        <value type="int" value="17"/>
       </property>
       <property name="size" type="uint" value="25"/>
       <property name="background-style" type="uint" value="0"/>
@@ -30,10 +31,6 @@
   <property name="plugins" type="empty">
     <property name="plugin-1" type="string" value="applicationsmenu">
       <property name="button-title" type="string" value="Kazsid"/>
-    </property>
-    <property name="plugin-2" type="string" value="actions">
-      <property name="second-action" type="uint" value="0"/>
-      <property name="first-action" type="uint" value="0"/>
     </property>
     <property name="plugin-3" type="string" value="tasklist"/>
     <property name="plugin-4" type="string" value="pager"/>
@@ -44,11 +41,8 @@
     </property>
     <property name="plugin-6" type="string" value="systray">
       <property name="names-visible" type="array">
-        <value type="string" value="deadbeef"/>
         <value type="string" value="networkmanager applet"/>
-        <value type="string" value="үрдістерді басқарушысы"/>
-        <value type="string" value="blueman-applet"/>
-        <value type="string" value="gajim"/>
+        <value type="string" value="xxkb"/>
       </property>
     </property>
     <property name="plugin-7" type="string" value="showdesktop"/>
@@ -78,7 +72,11 @@
     <property name="plugin-13" type="string" value="separator">
       <property name="style" type="uint" value="1"/>
     </property>
-    <property name="plugin-14" type="string" value="separator"/>
-    <property name="plugin-15" type="string" value="xkb-plugin"/>
+    <property name="plugin-14" type="string" value="separator">
+      <property name="style" type="uint" value="1"/>
+    </property>
+    <property name="plugin-15" type="string" value="battmon"/>
+    <property name="plugin-16" type="string" value="xfswitch-plugin"/>
+    <property name="plugin-17" type="string" value="xfsm-logout-plugin"/>
   </property>
 </channel>
