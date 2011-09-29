@@ -27,6 +27,7 @@ pkg-config
 strace
 ntpdate
 laptop-mode-tools
+usbutils
 #pm-utils
 smartmontools
 plymouth
