@@ -1,3 +1,9 @@
+2011-10-21
+* Update wine to version 1.3.30;
+* I've read that GNOME3 packages moved to sid, can't test
+  the Kazsid build process because I still do not have
+  proper Internet connection at home, nor build server in Kaznet;
+
 2011-10-01
 * There may be a pause in Kazsid development.
 
