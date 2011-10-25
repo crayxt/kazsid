@@ -48,8 +48,7 @@ easytag
 gnucash
 mcabber
 build-essential
-sun-java6-jre
-sun-java6-plugin
+openjdk-7-jre
 freemind
 libreoffice-l10n-ru
 libreoffice-gtk
