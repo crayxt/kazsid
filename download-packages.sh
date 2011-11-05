@@ -17,7 +17,7 @@ PACKAGES=(	'http://mirror-kt.neolabs.kz/linuxmint/packages/pool/import/i/inxi/in
 		'http://hadret.rootnode.net/debian/pool/main/f/faenza-icon-theme/faenza-icon-theme_1.0.0-0.1_all.deb'
 		'http://files.baurzhan.info/faenza-cupertino-icon-theme_0.1-1_all.deb'
 		'http://mirrors.fe.up.pt/pub/debian-unofficial/pool/non-free/m/microsoft-corefonts/ttf-microsoft-corefonts_1-1_all.deb'
-		'http://frickelplatz.de/debian/dists/unstable/main/binary-i386/otherosfs/wine_1.3.30-0.frickel.1_i386.deb'
+		'http://frickelplatz.de/debian/dists/unstable/main/binary-i386/otherosfs/wine_1.3.32-0.frickel.1_i386.deb'
 		'http://linukz.org/debian/pool/main/s/stardict-kazrus/stardict-kazrus_20100827-1_all.deb'
 	)
 
