@@ -6,7 +6,7 @@ LB_BINARY_FILESYSTEM="fat16"
 
 # $LB_BINARY_IMAGES: set image type
 # (Default: iso)
-LB_BINARY_IMAGES="iso"
+LB_BINARY_IMAGES="iso-hybrid"
 
 # $LB_APT_INDICES: set apt/aptitude generic indices
 # (Default: true)
@@ -14,7 +14,7 @@ LB_APT_INDICES="true"
 
 # $LB_BOOTAPPEND_LIVE: set boot parameters
 # (Default: empty)
-LB_BOOTAPPEND_LIVE="locales=kk_KZ.UTF-8 keyb=en hostname=debian"
+LB_BOOTAPPEND_LIVE="keyb=en hostname=debian"
 
 # $LB_BOOTAPPEND_INSTALL: set boot parameters
 # (Default: empty)
@@ -83,7 +83,7 @@ LB_JFFS2_ERASEBLOCK=""
 
 # $LB_MEMTEST: set memtest
 # (Default: memtest86+)
-LB_MEMTEST="memtest86+"
+LB_MEMTEST="none"
 
 # $LB_WIN32_LOADER: set win32-loader
 # (Default: false)

@@ -1,17 +1,6 @@
 # /usr/share/live/build/lists/xfce - package list for live-build(7)
 # adapted for kazsid
 
-libpam-gnome-keyring
-desktop-base
-#### multimedia lib, for xfburn
-gstreamer0.10-alsa
-gstreamer0.10-plugins-base
-###
-tango-icon-theme
-ttf-dejavu
-ttf-liberation
-ttf-droid
-flashplugin-nonfree
 ## requiremenets for live-installer, inxi is in chroot_local-packages
 grub
 os-prober
@@ -30,8 +19,8 @@ laptop-mode-tools
 usbutils
 #pm-utils
 smartmontools
-plymouth
-plymouth-themes-all
+#plymouth
+#plymouth-themes-all
 htop
 atop
 lsof
@@ -39,6 +28,7 @@ rfkill
 hdparm
 hddtemp
 mc
+mutt
 aria2
 ssl-cert
 gpm
@@ -49,7 +39,6 @@ pppoe
 lm-sensors
 cpufrequtils
 powertop
-hwinfo
 screen
 bc
 bash-completion
@@ -69,7 +58,6 @@ git
 rsync
 less
 openssh-client
-freerdp-x11
 hunspell
 hunspell-kk
 aspell-kk
@@ -78,7 +66,7 @@ myspell-ru
 aspell-en
 hunspell-en-us
 moc
-## firmwares
+## firmware packages
 firmware-ipw2x00
 firmware-iwlwifi
 firmware-ralink
@@ -92,34 +80,13 @@ b43-fwcutter
 bluez-firmware
 microcode.ctl
 firmware-intelwimax
-### misc
-network-manager
-network-manager-gnome
-network-manager-vpnc
-network-manager-vpnc-gnome
-network-manager-pptp
-network-manager-openvpn
-#-#qutim
-#-#qutim-protocol-icq
-#-#qutim-protocol-irc
-#-#qutim-protocol-mrim
-#-#qutim-protocol-jabber
-#-#qutim-plugin-histman
-#-#qutim-plugin-floaties
-#-#qutim-plugin-nowlistening
-#-#qutim-languages
-# end of the mega
+## end of firmware
 tmux
-arandr
-cups
-hplip
-xsane
-sane
-smbclient
 tcpdump
 chntpw
-reportbug
 heirloom-mailx
 fakeroot
 devscripts
 debhelper
+cifs-utils
+xdelta3

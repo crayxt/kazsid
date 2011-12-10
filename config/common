@@ -29,7 +29,7 @@ LB_APT_SECURE="true"
 
 # $LB_BOOTSTRAP: set bootstrap program
 # (Default: debootstrap)
-LB_BOOTSTRAP="debootstrap"
+LB_BOOTSTRAP="cdebootstrap"
 
 # $LB_CACHE: control cache
 # (Default: true)
@@ -125,8 +125,12 @@ _QUIET="false"
 # (Default: false)
 #_VERBOSE="false"
 
+# $LB_APT_SOURCE_ARCHIVES: set apt/aptitude source entries in sources.list
+# (Default: false)
+LB_APT_SOURCE_ARCHIVES="false"
+
 # Internal stuff (FIXME)
 APT_OPTIONS="--yes --no-install-recommends"
-APTITUDE_OPTIONS="--assume-yes"
+APTITUDE_OPTIONS="--assume-yes -R"
 GZIP_OPTIONS="--best --rsyncable"
 ISOHYBRID_OPTIONS=""

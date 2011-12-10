@@ -1,0 +1,7 @@
+#!/bin/sh
+## Workaround for Equinox theme does not having
+## GTK3 theme. Let's use gtk3 part from Adwaita.
+
+echo "I: Make Equinox use gtk3 theme from Adwaita"
+cd /usr/share/themes/Equinox
+ln -sf ../Adwaita/gtk-3.0

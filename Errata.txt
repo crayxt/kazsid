@@ -1,4 +1,9 @@
 Known bugs
+2011-12-09
+* No autologin in lightdm, need to manually enter username/password;
+* Iceweasel language packs need to be enabled in addons manager;
+* No GTK3 theme for Equinox, it uses gtk3 part from Adwaita;
+
 2011-09
 * Installer hangs if installation on reiserfs partition is selected 
   (with formatting it). The reason - mkfs.reiserfs needs the -q flag to be passed;

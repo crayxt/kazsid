@@ -12,6 +12,7 @@
         <property name="image-show" type="empty"/>
         <property name="last-image" type="empty"/>
         <property name="last-single-image" type="string" value="/usr/share/wallpapers/kazsid-02.jpg"/>
+        <property name="image-style" type="int" value="3"/>
       </property>
     </property>
   </property>

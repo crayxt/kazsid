@@ -1,6 +1,31 @@
 ## LH: Xfce
-#include <standard-x11>
-
+xorg
+alsa-base
+alsa-utils
+keyboard-configuration
+## something
+libpam-gnome-keyring
+libpam-ck-connector
+desktop-base
+#### multimedia lib, for xfburn
+gstreamer0.10-alsa
+gstreamer0.10-plugins-base
+###
+tango-icon-theme
+ttf-dejavu
+ttf-liberation
+ttf-droid
+hwinfo
+#flashplugin-nonfree
+freerdp-x11
+arandr
+xsane
+sane
+reportbug
+cups
+hplip
+smbclient
+## end of something
 #begin of xfce4 group
 xfwm4
 xfconf
@@ -17,7 +42,7 @@ gtk2-engines-xfce
 gtk2-engines
 xfce4-session
 xfce4-appfinder
-xfswitch-plugin
+#xfswitch-plugin
 orage
 xorg
 xdg-utils
@@ -28,8 +53,11 @@ gvfs
 gvfs-backends
 #end of xfce4
 slimevolley
-gdm3
+lightdm-gtk-greeter
+lightdm
+accountsservice
 gnome-settings-daemon
+gnome-themes-standard
 poedit
 remmina
 remmina-plugin-rdp
@@ -48,7 +76,7 @@ easytag
 gnucash
 mcabber
 build-essential
-openjdk-7-jre
+openjdk-6-jre
 freemind
 libreoffice-l10n-ru
 libreoffice-gtk
@@ -64,6 +92,9 @@ transmission-gtk
 uget
 klavaro
 file-roller
+# next two were thought to replace evince
+#xarchiver
+#gv
 galculator
 blueman
 shotwell
@@ -90,3 +121,24 @@ iceweasel-l10n-kk
 iceweasel-l10n-ru
 xlockmore-gl
 gpointing-device-settings
+# Qt4 stuff, will be needed for Skype
+djview4
+### misc
+network-manager
+network-manager-gnome
+network-manager-vpnc
+network-manager-vpnc-gnome
+network-manager-pptp
+network-manager-openvpn
+modemmanager
+mobile-broadband-provider-info
+#-#qutim
+#-#qutim-protocol-icq
+#-#qutim-protocol-irc
+#-#qutim-protocol-mrim
+#-#qutim-protocol-jabber
+#-#qutim-plugin-histman
+#-#qutim-plugin-floaties
+#-#qutim-plugin-nowlistening
+#-#qutim-languages
+# end of the mega

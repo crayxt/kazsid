@@ -1,3 +1,32 @@
+2011-12-09
+* Add accountsservice package to allow autologin in lightdm, needs
+  some more workaround to actually enable auto login;;
+* Add modemmanager package;
+* Add nottyautologin parameter to kernel command line,
+  to prevent X being auto started wheni user logins to first virtual
+  console. I suggest not to login to first console for now.;
+* Set xfce4-panel to be 25 px heigth back;
+* Transmission from experimental, wait when lands into sid;
+* ISO files now are hybrid;
+* Package lists are re-organized, to split X and console stuff;
+* Hardware detection tool and memtest added to boot menu;
+* Make Equinox use gtk3 theme from Adwaita;
+* Use pre-packaged Adobe flash plugin from Canonical's partner repository;
+* You can install Skype now, Opera still needs some packages to install;
+* Make lightdm-gtk-greeter use kazsid wallpaper;
+
+2011-11-27
+* Replace gdm3 with lightdm+gtk greeter;
+* Drop xfswitch plugin;
+
+2011-11-23
+* Drop openjdk-7-jre in prior of openjdk-6-jre, because of freemind;
+* Add faenza-icon-theme deb package from tiheum PPA (Ubuntu);
+* Add djview4 to pull Qt4 libs, required for skype;
+
+2011-11-20
+* Update structure to work with live-build 3.0 a30;
+
 2011-10-21
 * Update wine to version 1.3.30;
 * I've read that GNOME3 packages moved to sid, can't test
