@@ -11,8 +11,8 @@ At first, run the download-packages.sh script to get some
 packages to install. We are using them because these packages
 are not in the official Debian repos.
 
-There are some firmware packages and Sun's Java 6, which
-have their own licences. These licences are autoaccepted
+There are some firmware packages, which
+has its own licence. This licence is autoaccepted
 during build. Take a look at
 config/chroot_local-preseed directory.
 
