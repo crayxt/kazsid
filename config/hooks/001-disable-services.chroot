@@ -7,3 +7,7 @@ echo "I: disable live-installer autostart"
 update-rc.d -f live-installer remove
 echo "I: disable atop autostart"
 update-rc.d -f atop remove
+echo "I: disable bluetooth service autostart"
+update-rc.d -f bluetooth remove
+echo "I: disable cups autostart"
+update-rc.d -f cups remove
