@@ -3,11 +3,11 @@
   some more workaround to actually enable auto login;;
 * Add modemmanager package;
 * Add nottyautologin parameter to kernel command line,
-  to prevent X being auto started wheni user logins to first virtual
+  to prevent X being auto started when user logins to first virtual
   console. I suggest not to login to first console for now.;
 * Set xfce4-panel to be 25 px heigth back;
 * Transmission from experimental, wait when lands into sid;
-* ISO files now are hybrid;
+* ISO file is hybrid now. Please check;
 * Package lists are re-organized, to split X and console stuff;
 * Hardware detection tool and memtest added to boot menu;
 * Make Equinox use gtk3 theme from Adwaita;
