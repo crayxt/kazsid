@@ -16,7 +16,6 @@ PACKAGES=(	'http://dl.dropbox.com/u/5626215/live-installer_2011.06.10%7Ekazsid0_
 		'http://files.baurzhan.info/faenza-cupertino-icon-theme_0.1-1_all.deb'
 		'http://files.baurzhan.info/ttf-microsoft-corefonts_1-1_all.deb'
 		'http://files.baurzhan.info/inxi_1.4.23-1_all.deb'
-		'http://files.baurzhan.info/pm-utils_1.3.0-3_all.deb'
 		'http://frickelplatz.de/debian/dists/unstable/main/binary-i386/otherosfs/wine_1.3.32-0.frickel.1_i386.deb'
 		'http://linukz.org/debian/pool/main/s/stardict-kazrus/stardict-kazrus_20100827-1_all.deb'
 		'http://archive.canonical.com/ubuntu/pool/partner/a/adobe-flashplugin/adobe-flash-properties-gtk_11.1.102.55-0oneiric1_i386.deb'
