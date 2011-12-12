@@ -1,3 +1,9 @@
+2011-12-12
+* Add gtk2-engines-pixbuf, gstreamer0.10-plugins-good packages;
+* Drop old pm-utils, since up-to-date pm-utils no more conflicts
+  with the laptop-mode-tools;
+* Add WinFF media converter application;
+
 2011-12-09
 * Add accountsservice package to allow autologin in lightdm, needs
   some more workaround to actually enable auto login;;
