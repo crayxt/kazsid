@@ -10,6 +10,7 @@ desktop-base
 #### multimedia lib, for xfburn
 gstreamer0.10-alsa
 gstreamer0.10-plugins-base
+gstreamer0.10-plugins-good
 ###
 tango-icon-theme
 ttf-dejavu
@@ -40,6 +41,7 @@ tumbler
 xfce4-utils
 gtk2-engines-xfce
 gtk2-engines
+gtk2-engines-pixbuf
 xfce4-session
 xfce4-appfinder
 #xfswitch-plugin
@@ -72,6 +74,7 @@ libzlui-gtk
 fbreader
 gimp
 audacity
+winff
 easytag
 gnucash
 mcabber
@@ -142,3 +145,4 @@ mobile-broadband-provider-info
 #-#qutim-plugin-nowlistening
 #-#qutim-languages
 # end of the mega
+linphone
