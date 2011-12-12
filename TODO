@@ -1,8 +1,9 @@
 20111123
-* Replace gdm3 with lightdm;
-* Replace file-roller with xarchiver;
-* Replace Evince-gtk with djview4+PDF reader (What about .ps files?)
-* Install flashplayer from tar.gz, not from web. Maybe easily outdated;
+* Replace gdm3 with lightdm - DONE;
+* Replace file-roller with xarchiver - NO;
+* Replace Evince-gtk with djview4+PDF reader (What about .ps files?) -NO;
+* Install flashplayer from tar.gz, not from web. Maybe easily outdated - DONE;
+* Add keyboard shortcuts via exo-launch (Super + key);
 
 20110923
 * Make the boot menu more useful, provide menu entry for
