@@ -146,3 +146,5 @@ mobile-broadband-provider-info
 #-#qutim-languages
 # end of the mega
 linphone
+avahi-autoipd
+avahi-daemon
