@@ -17,6 +17,10 @@
       <property name="&lt;Alt&gt;F2" type="string" value="xfrun4"/>
       <property name="override" type="bool" value="true"/>
       <property name="Print" type="string" value="xfce4-screenshooter"/>
+      <property name="&lt;Super&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
+      <property name="&lt;Super&gt;f" type="string" value="exo-open --launch FileManager"/>
+      <property name="&lt;Super&gt;w" type="string" value="exo-open --launch WebBrowser"/>
+      <property name="&lt;Super&gt;l" type="string" value="xflock4"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
