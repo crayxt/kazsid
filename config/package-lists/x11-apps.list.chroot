@@ -80,6 +80,7 @@ gnucash
 mcabber
 build-essential
 openjdk-6-jre
+icedtea-plugin
 freemind
 libreoffice-l10n-ru
 libreoffice-gtk
