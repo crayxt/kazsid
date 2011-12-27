@@ -93,3 +93,7 @@ debhelper
 cifs-utils
 xdelta3
 fortune-mod
+scalpel
+testdisk
+sleuthkit
+parted
