@@ -14,7 +14,7 @@ LastSidePane=ThunarShortcutsPane
 LastSortColumn=THUNAR_COLUMN_NAME
 LastSortOrder=GTK_SORT_ASCENDING
 LastStatusbarVisible=TRUE
-LastView=ThunarIconView
+LastView=ThunarCompactView
 LastWindowHeight=632
 LastWindowWidth=953
 LastWindowMaximized=FALSE
@@ -31,7 +31,7 @@ MiscSingleClick=FALSE
 MiscSingleClickTimeout=500
 MiscTextBesideIcons=FALSE
 ShortcutsIconEmblems=TRUE
-ShortcutsIconSize=THUNAR_ICON_SIZE_SMALLER
+ShortcutsIconSize=THUNAR_ICON_SIZE_SMALLEST
 TreeIconEmblems=TRUE
 TreeIconSize=THUNAR_ICON_SIZE_SMALLEST
 
