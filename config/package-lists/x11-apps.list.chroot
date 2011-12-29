@@ -154,3 +154,5 @@ avahi-autoipd
 avahi-daemon
 abiword
 gnumeric
+python-tk
+python-webkit
