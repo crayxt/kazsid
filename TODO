@@ -1,3 +1,10 @@
+20111229
+* Make lightdm autologin for livecd;
+* Localize live-installer;
+* Icon for Kazsid iso;
+* Gdebi does not work, fix or kick it;
+* Get ready for the end of the world:);
+
 20111123
 * Replace gdm3 with lightdm - DONE;
 * Replace file-roller with xarchiver - NO;
