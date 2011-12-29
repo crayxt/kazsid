@@ -4,6 +4,7 @@
 * Icon for Kazsid iso;
 * Gdebi does not work, fix or kick it;
 * Get ready for the end of the world:);
+* Also integrate wine-gecko;
 
 20111123
 * Replace gdm3 with lightdm - DONE;
