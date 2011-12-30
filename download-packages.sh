@@ -7,7 +7,7 @@
 #################################################################################
 
 DIRECTORY="config/packages.chroot"
-PACKAGES=(	'http://dl.dropbox.com/u/5626215/live-installer_2011.06.10%7Ekazsid0_all.deb'
+PACKAGES=(	'http://dl.dropbox.com/u/5626215/live-installer_2011.12.30~kazsid0_all.deb'
 		'http://dl.dropbox.com/u/5626215/deadbeef_0.5.1-1_i386.deb'
 		'http://files.baurzhan.info/equinox-themes_1.30.2-3_all.deb'
 		'http://files.baurzhan.info/equinox-themes-extra_1.30.2-1_all.deb'
