@@ -139,6 +139,7 @@ network-manager-pptp
 network-manager-openvpn
 modemmanager
 mobile-broadband-provider-info
+usb-modeswitch
 #-#qutim
 #-#qutim-protocol-icq
 #-#qutim-protocol-irc
