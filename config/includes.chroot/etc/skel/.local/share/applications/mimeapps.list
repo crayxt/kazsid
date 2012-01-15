@@ -1,0 +1,18 @@
+
+[Default Applications]
+application/pdf=evince.desktop;
+application/x-gzip=file-roller.desktop;
+application/x-rar=file-roller.desktop;
+application/x-tar=file-roller.desktop;
+application/x-zip=file-roller.desktop;
+image/jpeg=shotwell-viewer.desktop;
+image/png=shotwell-viewer.desktop;
+
+[Added Associations]
+application/pdf=evince.desktop;
+application/x-gzip=file-roller.desktop;
+application/x-rar=file-roller.desktop;
+application/x-tar=file-roller.desktop;
+application/x-zip=file-roller.desktop;
+image/jpeg=shotwell-viewer.desktop;
+image/png=shotwell-viewer.desktop;
