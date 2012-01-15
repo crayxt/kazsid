@@ -136,7 +136,9 @@ network-manager-gnome
 network-manager-vpnc
 network-manager-vpnc-gnome
 network-manager-pptp
+network-manager-pptp-gnome
 network-manager-openvpn
+network-manager-openvpn-gnome
 modemmanager
 mobile-broadband-provider-info
 usb-modeswitch
