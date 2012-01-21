@@ -160,3 +160,7 @@ abiword
 gnumeric
 python-tk
 python-webkit
+## psi plus as xmpp client
+psi-plus
+psi-plus-plugins
+libqca2-plugin-ossl
