@@ -50,6 +50,7 @@ mtools
 ntfs-3g
 reiserfsprogs
 jfsutils
+xfsprogs
 p7zip-full
 p7zip-rar
 acpi
