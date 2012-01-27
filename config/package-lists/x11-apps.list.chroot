@@ -164,4 +164,6 @@ python-webkit
 psi-plus
 psi-plus-plugins
 libqca2-plugin-ossl
-pychess
+eboard
+gnuchess
+gnuchess-book
