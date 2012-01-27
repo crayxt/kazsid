@@ -1,0 +1,7 @@
+#!/bin/sh
+## Workaround for xfce4-battery-plugin consuming
+## about 10% cpu. I think, it's safer to just disable
+## animations in Equinox theme.
+
+echo "I: Disable animations in Equinox gtk2 theme"
+sed -i 's/animation           = TRUE/animation           = FALSE/g' /usr/share/themes/Equinox/gtk-2.0/gtkrc
