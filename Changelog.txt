@@ -1,3 +1,8 @@
+2012-01-27
+* Autologin is fixed in Live CD mode;
+* Live-installer localized into Kazakh and Russian;
+* Package lists reviewed;
+
 2011-12-12
 * Add gtk2-engines-pixbuf, gstreamer0.10-plugins-good packages;
 * Drop old pm-utils, since up-to-date pm-utils no more conflicts
