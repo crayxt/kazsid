@@ -1,3 +1,6 @@
+20120130
+* Replace volumeicon with xfce4-mixer;
+
 20111229
 * Make lightdm autologin for livecd;
 * Localize live-installer;
