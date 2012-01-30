@@ -68,7 +68,7 @@ remmina-plugin-xdmcp
 fontypython
 mplayer
 gnome-mplayer
-volumeicon-alsa
+#volumeicon-alsa
 gnome-keyring
 libzlui-gtk
 fbreader
@@ -121,6 +121,7 @@ xfce4-notes-plugin
 xfce4-battery-plugin
 xfce4-xkb-plugin
 xfce4-volumed
+xfce4-mixer
 xfburn
 qemu-kvm
 iceweasel
