@@ -51,6 +51,7 @@ ntfs-3g
 reiserfsprogs
 jfsutils
 xfsprogs
+xfsdump
 p7zip-full
 p7zip-rar
 acpi
