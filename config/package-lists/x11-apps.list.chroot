@@ -127,7 +127,7 @@ qemu-kvm
 iceweasel
 iceweasel-l10n-kk
 iceweasel-l10n-ru
-iceweasel-l10n-en-us
+#iceweasel-l10n-en-us
 xlockmore-gl
 gpointing-device-settings
 # Qt4 stuff, will be needed for Skype
