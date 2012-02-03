@@ -16,7 +16,7 @@ strace
 ntpdate
 laptop-mode-tools
 usbutils
-#pm-utils
+pm-utils
 smartmontools
 #plymouth
 #plymouth-themes-all
