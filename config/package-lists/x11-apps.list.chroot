@@ -54,7 +54,7 @@ desktop-base
 gvfs
 gvfs-backends
 #end of xfce4
-slimevolley
+#slimevolley
 lightdm-gtk-greeter
 lightdm
 accountsservice
