@@ -13,7 +13,7 @@ PACKAGES=(	'http://dl.dropbox.com/u/5626215/live-installer_2012.01.24~kazsid0_al
 		'http://files.baurzhan.info/equinox-themes-extra_1.30.2-1_all.deb'
 		'http://hadret.rootnode.net/debian/pool/main/g/gtk2-engines-equinox/gtk2-engines-equinox_1.50-1_i386.deb'
 		'http://ppa.launchpad.net/tiheum/equinox/ubuntu/pool/main/f/faenza-icon-theme/faenza-icon-theme_1.2_all.deb'
-		'http://files.baurzhan.info/faenza-cupertino-icon-theme_0.1-1_all.deb'
+		'http://ppa.launchpad.net/webupd8team/themes/ubuntu/pool/main/f/faenza-colors/faenza-cupertino_0.3.4-1~webupd8~oneiric_all.deb'
 		'http://files.baurzhan.info/ttf-microsoft-corefonts_1-1_all.deb'
 		'http://files.baurzhan.info/inxi_1.4.23-1_all.deb'
 		'http://ppa.launchpad.net/ubuntu-wine/ppa/ubuntu/pool/main/w/wine1.3/wine1.3_1.3.37-0ubuntu1~ppa1~oneiric1_i386.deb'
