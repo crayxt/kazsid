@@ -1,6 +1,6 @@
-Kazsid is a pure Debian live system targeted on Kazakh users.
-Its purpose is to provide a full-featured desktop Linux
-entirely on Kazakh language.
+Kazsid is a pure Debian live system targeted on kazakh and
+russian speaking users. Its purpose is to provide a full-featured
+desktop Linux version with the Kazakh language.
 
 It is based on Debian sid.
 
