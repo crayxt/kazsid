@@ -74,7 +74,7 @@ libzlui-gtk
 fbreader
 gimp
 audacity
-winff
+#winff
 easytag
 gnucash
 mcabber
@@ -154,7 +154,7 @@ usb-modeswitch
 #-#qutim-plugin-nowlistening
 #-#qutim-languages
 # end of the mega
-linphone
+#linphone
 avahi-autoipd
 avahi-daemon
 #abiword
