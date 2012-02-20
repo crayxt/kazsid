@@ -81,7 +81,7 @@ style "clearlooks-default"
 		reliefstyle	= 0 # 0 makes buttons/widgets less raised.
 		menubarstyle	= 2 # Gradient menubar, use tweak in line 66 for flat menubars.
 		toolbarstyle	= 1 # 0 makes bad toolbars flat.
-		animation	= TRUE # FALSE disables progressbar animations.
+		animation	= FALSE # FALSE disables progressbar animations.
 		style		= GUMMY # Could also be set to GLOSSY.
 		radius		= 1.0 # Roundness of widgets.
 		hint		= "use-hints" # Set a hint to disable backward compatibility fallbacks.
