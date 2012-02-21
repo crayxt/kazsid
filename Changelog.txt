@@ -1,7 +1,8 @@
 2012-02-20
-* Equinox GTk theme is replaced with BSM Simple;
+* Equinox GTK theme is replaced with BSM Simple;
 * WinFF, linphone dropped;
 * Tango icons fixed to work with Thunar, by creating symlinks;
+* Mirrors set to mirror.yandex.ru;
 
 2012-01-27
 * Autologin is fixed in Live CD mode;
