@@ -15,8 +15,8 @@ PACKAGES=(	'http://dl.dropbox.com/u/5626215/live-installer_2012.02.21~kazsid0_al
 		'http://files.baurzhan.info/inxi_1.7.28-1_all.deb'
 		'http://ppa.launchpad.net/ubuntu-wine/ppa/ubuntu/pool/main/w/wine1.3/wine1.3_1.4-0ubuntu1~ppa1~oneiric1_i386.deb'
 		'http://linukz.org/debian/pool/main/s/stardict-kazrus/stardict-kazrus_20100827-1_all.deb'
-		'http://archive.canonical.com/ubuntu/pool/partner/a/adobe-flashplugin/adobe-flash-properties-gtk_11.1.102.63-0precise2_i386.deb'
-		'http://archive.canonical.com/ubuntu/pool/partner/a/adobe-flashplugin/adobe-flashplugin_11.1.102.63-0precise2_i386.deb'
+		'http://archive.canonical.com/ubuntu/pool/partner/a/adobe-flashplugin/adobe-flash-properties-gtk_11.2.202.228-0precise1_i386.deb'
+		'http://archive.canonical.com/ubuntu/pool/partner/a/adobe-flashplugin/adobe-flashplugin_11.2.202.228-0precise1_i386.deb'
 	)
 
 mkdir $DIRECTORY
