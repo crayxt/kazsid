@@ -1,24 +1,27 @@
+20120330
+* provide auto scripts into kazsid/auto;
+
 20120130
-* Replace volumeicon with xfce4-mixer;
+* Replace volumeicon with xfce4-mixer - DONE;
 
 20111229
-* Make lightdm autologin for livecd;
-* Localize live-installer;
-* Icon for Kazsid iso;
-* Gdebi does not work, fix or kick it;
-* Get ready for the end of the world:);
-* Also integrate wine-gecko;
+* Make lightdm autologin for livecd - DONE;
+* Localize live-installer - DONE;
+* Icon for Kazsid iso - TBD;
+* Gdebi does not work, fix or kick it - it works;
+* Get ready for the end of the world:) - IN PROCESS;
+* Also integrate wine-gecko - NO;
 
 20111123
 * Replace gdm3 with lightdm - DONE;
 * Replace file-roller with xarchiver - NO;
 * Replace Evince-gtk with djview4+PDF reader (What about .ps files?) -NO;
 * Install flashplayer from tar.gz, not from web. Maybe easily outdated - DONE;
-* Add keyboard shortcuts via exo-launch (Super + key);
+* Add keyboard shortcuts via exo-launch (Super + key) - DONE;
 
 20110923
 * Make the boot menu more useful, provide menu entry for
-  memtest, which is put by the live-build.
+  memtest, which is put by the live-build - DONE.
 
 20110918
 * Implement failover locale switch to Russian, in case
