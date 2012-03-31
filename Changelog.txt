@@ -1,3 +1,14 @@
+2012-03-31
+* kazsid-20120330 released;
+* up-to-date Debian sid;
+* live-config package version 3.0~a33-kazsid1.1 used,
+  with one commit reverted, to avoid boot process failure,
+  when /proc/cmdline is not found. Should be fixed properly;
+* /etc/lightdm/lightdm.conf added manually, and during the
+  image build process it asks whether to replace it, just
+  press the Enter. Should be fixed proreply;
+* Deadbeef 0.5.2, Iceweasel 10.0.3 ESR, Linux kernel 3.2.13;
+
 2012-02-20
 * Equinox GTK theme is replaced with BSM Simple;
 * WinFF, linphone dropped;
