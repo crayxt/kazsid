@@ -1,3 +1,8 @@
+2012-04-27
+* kazsid-20120427 released;
+* package updates from Debian sid;
+* fixed bootstrapping with cdebootstrap, more on my blog;
+
 2012-03-31
 * kazsid-20120330 released;
 * up-to-date Debian sid;
