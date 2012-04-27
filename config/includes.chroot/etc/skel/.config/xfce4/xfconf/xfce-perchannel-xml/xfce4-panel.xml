@@ -76,7 +76,7 @@
     <property name="plugin-14" type="string" value="separator">
       <property name="style" type="uint" value="1"/>
     </property>
-    <property name="plugin-15" type="string" value="battmon"/>
+    <property name="plugin-15" type="string" value="battery"/>
     <property name="plugin-17" type="string" value="xfsm-logout-plugin"/>
     <property name="plugin-2" type="string" value="xkb-plugin"/>
     <property name="plugin-16" type="string" value="xfce4-mixer-plugin"/>
