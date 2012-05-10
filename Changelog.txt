@@ -1,3 +1,6 @@
+2012-05-10
+* Iceweasel is from experimental now, per TLemur's request;
+
 2012-04-27
 * kazsid-20120427 released;
 * package updates from Debian sid;
