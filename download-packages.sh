@@ -7,8 +7,8 @@
 #################################################################################
 
 DIRECTORY="config/packages.chroot"
-PACKAGES=(	'http://dl.dropbox.com/u/5626215/live-installer_2012.02.21~kazsid0_all.deb'
-		'http://dl.dropbox.com/u/5626215/deadbeef_0.5.2-1_i386.deb'
+PACKAGES=(	'http://dl.dropbox.com/u/5626215/live-installer_2012.05.16~kazsid0_all.deb'
+		'http://dl.dropbox.com/u/5626215/deadbeef_0.5.4-1_i386.deb'
 		'http://ppa.launchpad.net/tiheum/equinox/ubuntu/pool/main/f/faenza-icon-theme/faenza-icon-theme_1.2_all.deb'
 		'http://ppa.launchpad.net/webupd8team/themes/ubuntu/pool/main/f/faenza-colors/faenza-cupertino_0.3.4-1~webupd8~oneiric_all.deb'
 		'http://files.baurzhan.info/ttf-microsoft-corefonts_1-1_all.deb'
