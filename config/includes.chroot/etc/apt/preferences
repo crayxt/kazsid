@@ -1,8 +1,7 @@
-Package: iceweasel iceweasel-l10n-*
+Package: iceweasel iceweasel-l10n-* libmozjs* xulrunner-*
 Pin: release a=experimental
 Pin-Priority: 900
 
 Package: *
 Pin: release a=unstable
 Pin-Priority: 800
-
