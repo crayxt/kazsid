@@ -21,7 +21,6 @@
         <value type="int" value="6"/>
         <value type="int" value="16"/>
         <value type="int" value="2"/>
-        <value type="int" value="15"/>
         <value type="int" value="5"/>
         <value type="int" value="17"/>
       </property>
@@ -76,7 +75,6 @@
     <property name="plugin-14" type="string" value="separator">
       <property name="style" type="uint" value="1"/>
     </property>
-    <property name="plugin-15" type="string" value="battery"/>
     <property name="plugin-17" type="string" value="xfsm-logout-plugin"/>
     <property name="plugin-2" type="string" value="xkb-plugin"/>
     <property name="plugin-16" type="string" value="xfce4-mixer-plugin"/>
