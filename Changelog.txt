@@ -1,3 +1,7 @@
+2012-06-28
+* Wine is from sid now, as latest 1.4.1 stable version
+  is already in sid. It's huge;
+
 2012-05-10
 * Iceweasel is from experimental now, per TLemur's request;
 
