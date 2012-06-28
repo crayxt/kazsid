@@ -169,3 +169,6 @@ libqca2-plugin-ossl
 #gnuchess
 #gnuchess-book
 wine
+libwine-alsa
+libwine-gl
+libwine-print
