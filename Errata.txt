@@ -1,4 +1,12 @@
 Known bugs
+2012-06-28
+* Root password is the same as for first user;
+* Lightdm autologin now is shipped out-of-the-box;
+* Iceweasel and l10n packs works fine;
+* GTK3 theme is from Adwaita, GTK2 is BSM Simple Dark Panel;
+* Installing on reiserfs partition now works;
+* The final ISO image does not fit on CD, I use USB and fromiso option;
+
 2011-12-09
 * No autologin in lightdm, need to manually enter username/password;
 * Iceweasel language packs need to be enabled in addons manager;
