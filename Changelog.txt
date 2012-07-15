@@ -1,3 +1,8 @@
+2012-07-15
+* Drop wine from images;
+* Drop orage;
+* Add gigolo, which is useful to work with gvfs;
+
 2012-06-28
 * Wine is from sid now, as latest 1.4.1 stable version
   is already in sid. It's huge;
