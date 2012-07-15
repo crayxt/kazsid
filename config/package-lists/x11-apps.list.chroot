@@ -45,7 +45,8 @@ gtk2-engines-pixbuf
 xfce4-session
 xfce4-appfinder
 #xfswitch-plugin
-orage
+#orage
+gigolo
 xorg
 xdg-utils
 xdg-user-dirs-gtk
