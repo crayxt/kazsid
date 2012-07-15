@@ -66,7 +66,7 @@ remmina
 remmina-plugin-rdp
 remmina-plugin-vnc
 remmina-plugin-xdmcp
-fontypython
+#fontypython
 mplayer2
 gnome-mplayer
 #volumeicon-alsa
@@ -76,10 +76,10 @@ fbreader
 gimp
 audacity
 winff
-easytag
+#easytag
 gnucash
-mcabber
-irssi
+#mcabber
+#irssi
 build-essential
 openjdk-6-jre
 icedtea-plugin
@@ -91,7 +91,7 @@ libreoffice-calc
 libreoffice-impress
 libreoffice-draw
 #comix
-gdebi
+#gdebi
 evince-gtk
 xchm
 transmission-gtk
@@ -160,12 +160,12 @@ avahi-autoipd
 avahi-daemon
 #abiword
 #gnumeric
-python-tk
+#python-tk
 python-webkit
 ## psi plus as xmpp client
-psi-plus
-psi-plus-plugins
-libqca2-plugin-ossl
+#psi-plus
+#psi-plus-plugins
+#libqca2-plugin-ossl
 #eboard
 #gnuchess
 #gnuchess-book
