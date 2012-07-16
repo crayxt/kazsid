@@ -80,7 +80,7 @@ winff
 gnucash
 #mcabber
 #irssi
-build-essential
+#build-essential
 openjdk-6-jre
 icedtea-plugin
 freemind
