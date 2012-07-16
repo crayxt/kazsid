@@ -80,7 +80,7 @@ firmware-linux-free
 firmware-linux-nonfree
 b43-fwcutter
 bluez-firmware
-microcode.ctl
+#microcode.ctl
 intel-microcode
 firmware-intelwimax
 ## end of firmware
