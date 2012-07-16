@@ -110,6 +110,7 @@ python-openssl
 stardict
 stardict-plugin-espeak
 gparted
+gksu
 geany
 filezilla
 xfce4-terminal
