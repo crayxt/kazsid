@@ -1,6 +1,7 @@
 # /usr/share/live/build/lists/xfce - package list for live-build(7)
 # adapted for kazsid
 ## requiremenets for live-installer, inxi is in chroot_local-packages
+user-setup
 grub
 os-prober
 gawk
