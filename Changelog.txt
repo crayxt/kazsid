@@ -1,3 +1,6 @@
+2012-08-08
+* Keyboard selection feature dropped from installer;
+
 2012-07-15
 * Drop wine from images;
 * Drop orage;
