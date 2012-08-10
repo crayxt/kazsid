@@ -8,6 +8,8 @@ lb config noauto \
 	-a i386 \
 	--bootstrap cdebootstrap \
 	--cache false \
+	--cache-packages false \
+	--cache-stages false \
 	--checksums md5 \
 	--debian-installer false \
 	--debian-installer-gui false \
