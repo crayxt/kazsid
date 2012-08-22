@@ -1,5 +1,6 @@
 ## LH: Xfce
 xorg
+xfonts-cyrillic
 alsa-base
 alsa-utils
 keyboard-configuration
