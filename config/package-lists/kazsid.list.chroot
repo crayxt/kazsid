@@ -2,6 +2,7 @@
 # adapted for kazsid
 ## requiremenets for live-installer, inxi is in chroot_local-packages
 user-setup
+eject
 grub
 os-prober
 gawk
