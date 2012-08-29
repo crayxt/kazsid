@@ -3,6 +3,10 @@ xorg
 xfonts-cyrillic
 alsa-base
 alsa-utils
+pulseaudio
+pavucontrol
+pavumeter
+paprefs
 keyboard-configuration
 ## something
 libpam-gnome-keyring
