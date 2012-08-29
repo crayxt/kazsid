@@ -20,8 +20,8 @@ laptop-mode-tools
 usbutils
 pm-utils
 smartmontools
-#plymouth
-#plymouth-themes-all
+plymouth
+plymouth-themes-all
 htop
 atop
 lsof
