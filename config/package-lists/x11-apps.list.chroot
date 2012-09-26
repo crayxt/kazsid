@@ -58,6 +58,7 @@ xdg-user-dirs-gtk
 libgl1-mesa-dev
 desktop-base
 gvfs
+gvfs-bin
 gvfs-backends
 #end of xfce4
 #slimevolley
