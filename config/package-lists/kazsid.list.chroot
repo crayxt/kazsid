@@ -3,7 +3,7 @@
 ## requiremenets for live-installer, inxi is in chroot_local-packages
 user-setup
 eject
-grub
+grub-pc
 os-prober
 gawk
 mesa-utils
