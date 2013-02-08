@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "I: Setting the plymouth theme"
+#sed -i 's/\#\[Daemon\]/\[Daemon\]/' /etc/plymouth/plymouthd.conf
+#sed -i 's/\#Theme=text/Theme=joy/' /etc/plymouth/plymouthd.conf
+/usr/sbin/plymouth-set-default-theme joy
+/usr/sbin/update-initramfs -u
