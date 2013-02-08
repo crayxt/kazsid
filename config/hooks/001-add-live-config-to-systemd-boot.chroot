@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "I: Adding live-config.service to systemd boot"
+mkdir -p /lib/systemd/system/basic.target.wants
+ln -s /lib/systemd/system/live-config.service /lib/systemd/system/basic.target.wants/live-config.service
