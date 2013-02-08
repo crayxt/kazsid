@@ -1,3 +1,10 @@
+2013-02-08
+* First entry here in 2013;
+* Switch to systemd;
+* No wine anymore;
+* If you were using isofrom/fromiso boot options,
+  you better switch to findiso=image.iso option.
+
 2012-08-08
 * Keyboard selection feature dropped from installer;
 
