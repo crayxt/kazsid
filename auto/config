@@ -6,6 +6,7 @@ lb config noauto \
 	--apt-recommends false \
 	--apt-source-archives false \
 	-a i386 \
+	--bootloader syslinux \
 	--bootstrap cdebootstrap \
 	--cache false \
 	--cache-packages false \
