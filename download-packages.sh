@@ -9,7 +9,7 @@
 DIRECTORY="config/packages.chroot"
 PACKAGES=(	'http://dl.dropbox.com/u/5626215/live-installer_2012.11.26~kazsid0_all.deb'
 		'http://dl.dropbox.com/u/5626215/deadbeef_0.5.6-1_i386.deb'
-		'http://ppa.launchpad.net/tiheum/equinox/ubuntu/pool/main/f/faenza-icon-theme/faenza-icon-theme_1.3_all.deb'
+		'http://ppa.launchpad.net/tiheum/equinox/ubuntu/pool/main/f/faenza-icon-theme/faenza-icon-theme_1.3.1_all.deb'
 		'http://ppa.launchpad.net/webupd8team/themes/ubuntu/pool/main/f/faenza-colors/faenza-cupertino_0.3.4-1~webupd8~oneiric_all.deb'
 		'http://files.baurzhan.info/ttf-microsoft-corefonts_1-1_all.deb'
 		'http://files.baurzhan.info/inxi_1.7.28-1_all.deb'
