@@ -19,9 +19,9 @@ gstreamer0.10-plugins-base
 gstreamer0.10-plugins-good
 ###
 tango-icon-theme
-ttf-dejavu
-ttf-liberation
-ttf-droid
+fonts-dejavu
+fonts-liberation
+fonts-droid
 hwinfo
 #flashplugin-nonfree
 freerdp-x11
