@@ -14,8 +14,8 @@ PACKAGES=(	'http://dl.dropbox.com/u/5626215/live-installer_2012.11.26~kazsid0_al
 		'http://files.baurzhan.info/ttf-microsoft-corefonts_1-1_all.deb'
 		'http://files.baurzhan.info/inxi_1.7.28-1_all.deb'
 		'http://linukz.org/debian/pool/main/s/stardict-kazrus/stardict-kazrus_20100827-1_all.deb'
-		'http://archive.canonical.com/ubuntu/pool/partner/a/adobe-flashplugin/adobe-flash-properties-gtk_11.2.202.280-0quantal1_i386.deb'
-		'http://archive.canonical.com/ubuntu/pool/partner/a/adobe-flashplugin/adobe-flashplugin_11.2.202.280-0quantal1_i386.deb'
+		'http://archive.canonical.com/ubuntu/pool/partner/a/adobe-flashplugin/adobe-flash-properties-gtk_11.2.202.285-0raring1_i386.deb'
+		'http://archive.canonical.com/ubuntu/pool/partner/a/adobe-flashplugin/adobe-flashplugin_11.2.202.285-0raring1_i386.deb'
 	)
 
 mkdir $DIRECTORY
