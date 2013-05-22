@@ -1,4 +1,4 @@
-Package: iceweasel iceweasel-l10n-* exo-utils libexo-1-0 libthunarx-2-0 libxfce4ui-1-0 thunar thunar-data xfdesktop4 xfdesktop4-data xfwm4 libxfce4util6 xfce4-terminal
+Package: iceweasel iceweasel-l10n-*
 Pin: release a=experimental
 Pin-Priority: 900
 
