@@ -44,7 +44,7 @@ thunar-volman
 thunar-archive-plugin
 thunar-media-tags-plugin
 tumbler
-xfce4-utils
+#xfce4-utils
 gtk2-engines-xfce
 gtk2-engines
 gtk2-engines-pixbuf
