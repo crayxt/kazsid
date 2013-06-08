@@ -1,7 +1,0 @@
-
-[StatusIcon]
-stepsize=5
-lmb_slider=false
-mmb_mute=false
-onclick=xterm -e 'alsamixer'
-theme=Default
