@@ -132,6 +132,7 @@ xfce4-xkb-plugin
 xfce4-volumed
 xfce4-mixer
 xfburn
+ristretto
 qemu-kvm
 iceweasel
 iceweasel-l10n-kk
@@ -183,3 +184,4 @@ python-webkit
 xscreensaver
 xscreensaver-gl
 menu
+synaptic
