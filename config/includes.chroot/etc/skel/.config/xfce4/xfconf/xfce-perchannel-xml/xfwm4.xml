@@ -77,5 +77,6 @@
     <property name="wrap_resistance" type="int" value="10"/>
     <property name="wrap_windows" type="bool" value="true"/>
     <property name="wrap_workspaces" type="bool" value="false"/>
+    <property name="tile_on_move" type="bool" value="true"/>
   </property>
 </channel>
