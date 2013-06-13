@@ -1,3 +1,9 @@
+2013-06-13
+* Xfce updated to version 4.10 in Debian sid;
+* Keyboard configuration fixed, specified in /etc/default/keyboard now;
+* Added ristretto as default image viewer, next version will have kk l10n;
+* No systemd yet, still with sysvinit;
+
 2013-02-08
 * First entry here in 2013;
 * Switch to systemd;
