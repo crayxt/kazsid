@@ -1,3 +1,7 @@
+2013-06-21
+* Added libreoffice-l10n-kk;
+* Added minitube package;
+
 2013-06-13
 * Xfce updated to version 4.10 in Debian sid;
 * Keyboard configuration fixed, specified in /etc/default/keyboard now;
