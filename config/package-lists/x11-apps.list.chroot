@@ -100,7 +100,7 @@ libreoffice-impress
 libreoffice-draw
 #comix
 #gdebi
-evince-gtk
+#evince-gtk
 xchm
 transmission-gtk
 uget
@@ -141,7 +141,7 @@ iceweasel-l10n-ru
 #iceweasel-l10n-en-us
 gpointing-device-settings
 # Qt4 stuff, will be needed for Skype
-djview4
+#djview4
 ### misc
 network-manager
 network-manager-gnome
@@ -189,3 +189,6 @@ synaptic
 adobe-flash-properties-gtk
 adobe-flashplugin
 minitube
+qpdfview
+qpdfview-djvu-plugin
+qpdfview-ps-plugin
