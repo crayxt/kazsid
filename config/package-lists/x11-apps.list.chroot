@@ -88,9 +88,9 @@ gnucash
 #mcabber
 #irssi
 #build-essential
-openjdk-6-jre
+#openjdk-6-jre
 icedtea-plugin
-freemind
+#freemind
 libreoffice-l10n-kk
 libreoffice-l10n-ru
 libreoffice-gtk
@@ -111,10 +111,10 @@ file-roller
 #gv
 galculator
 blueman
-shotwell
+#shotwell
 gpodder
-gajim
-python-openssl
+#gajim
+#python-openssl
 stardict
 stardict-plugin-espeak
 gparted
@@ -172,9 +172,10 @@ avahi-daemon
 #python-tk
 python-webkit
 ## psi plus as xmpp client
-#psi-plus
-#psi-plus-plugins
-#libqca2-plugin-ossl
+psi-plus
+psi-plus-plugins
+psi-plus-l10n
+libqca2-plugin-ossl
 #eboard
 #gnuchess
 #gnuchess-book
@@ -188,7 +189,7 @@ menu
 synaptic
 adobe-flash-properties-gtk
 adobe-flashplugin
-minitube
+#minitube
 qpdfview
 qpdfview-djvu-plugin
 qpdfview-ps-plugin
