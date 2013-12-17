@@ -17,6 +17,7 @@ lb config noauto \
 	--iso-application "Kazsid" \
 	--iso-publisher "Kazsid team" \
 	--iso-volume "Kazsid_CD" \
+	--initsystem systemd \
 	-k 686-pae \
 	--archive-areas "main contrib non-free" \
 	--parent-mirror-bootstrap "http://127.0.0.1:3142/mirror.yandex.ru/debian/" \
