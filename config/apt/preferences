@@ -1,4 +1,4 @@
-Package: iceweasel iceweasel-l10n-*
+Package: iceweasel iceweasel-l10n-* live-*
 Pin: release a=experimental
 Pin-Priority: 900
 
