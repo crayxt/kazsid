@@ -1,4 +1,9 @@
 Known bugs
+2012-12-21
+* To check dd-ing to USB and try to boot from it;
+* Does not fit to CD;
+* Too few users;
+
 2012-06-28
 * Root password is the same as for first user;
 * Lightdm autologin now is shipped out-of-the-box;

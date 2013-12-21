@@ -1,3 +1,7 @@
+2013-12-21
+* Switch to using systemd.
+* Packages updated.
+
 2013-07-11
 * Evince replaced with qpdfview, djview4 dropped;
 * Qt libs now are included as dependencies of qpdfview.
