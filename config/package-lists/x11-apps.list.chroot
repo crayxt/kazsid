@@ -84,7 +84,7 @@ gimp
 audacity
 winff
 #easytag
-gnucash
+#gnucash
 #mcabber
 #irssi
 #build-essential
@@ -193,3 +193,4 @@ adobe-flashplugin
 qpdfview
 qpdfview-djvu-plugin
 qpdfview-ps-plugin
+xterm
