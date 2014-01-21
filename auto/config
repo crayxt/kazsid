@@ -7,7 +7,7 @@ lb config noauto \
 	--apt-source-archives false \
 	-a i386 \
 	--bootloader syslinux \
-	--bootstrap cdebootstrap \
+	--bootstrap debootstrap \
 	--cache false \
 	--cache-packages false \
 	--checksums md5 \
