@@ -107,3 +107,4 @@ localepurge
 file
 dos2unix
 console-cyrillic
+nfs-common
