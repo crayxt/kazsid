@@ -109,3 +109,6 @@ dos2unix
 console-cyrillic
 nfs-common
 lvm2
+live-config
+live-boot
+live-boot-initramfs-tools
