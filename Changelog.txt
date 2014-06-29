@@ -1,3 +1,8 @@
+2014-06-29
+* New release, in same time 32 and 64 bits;
+* Following files to have in config/includes.binary/isolinux:
+  hdt.c32  isolinux.bin  isolinux.cfg  ldlinux.c32  libcom32.c32  libutil.c32  vesamenu.c32
+
 2013-12-21
 * Switch to using systemd.
 * Packages updated.
