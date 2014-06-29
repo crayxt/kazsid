@@ -20,10 +20,10 @@ lb config noauto \
 	--initsystem systemd \
 	-k 686-pae \
 	--archive-areas "main contrib non-free" \
-	--parent-mirror-bootstrap "http://127.0.0.1:3142/mirror.yandex.ru/debian/" \
-	--mirror-bootstrap "http://127.0.0.1:3142/mirror.yandex.ru/debian/" \
-	--parent-mirror-binary "http://mirror.yandex.ru/debian/" \
-	--mirror-binary "http://mirror.yandex.ru/debian/" \
+	--parent-mirror-bootstrap "http://127.0.0.1:3142/cdn.debian.net/debian/" \
+	--mirror-bootstrap "http://127.0.0.1:3142/cdn.debian.net/debian/" \
+	--parent-mirror-binary "http://cdn.debian.net/debian/" \
+	--mirror-binary "http://cdn.debian.net/debian/" \
 	--source false \
 	--system live \
 	--win32-loader false \

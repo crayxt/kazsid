@@ -1,8 +1,0 @@
-Package: iceweasel iceweasel-l10n-* live-*
-Pin: release a=experimental
-Pin-Priority: 900
-
-Package: *
-Pin: release a=unstable
-Pin-Priority: 800
-
