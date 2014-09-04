@@ -5,7 +5,7 @@ lb config noauto \
 	--apt-options "--yes --no-install-recommends" \
 	--apt-recommends false \
 	--apt-source-archives false \
-	-a i386 \
+	-a amd64 \
 	--bootloader syslinux \
 	--bootstrap debootstrap \
 	--cache false \
@@ -18,7 +18,6 @@ lb config noauto \
 	--iso-publisher "Kazsid team" \
 	--iso-volume "Kazsid_CD" \
 	--initsystem systemd \
-	-k 686-pae \
 	--archive-areas "main contrib non-free" \
 	--parent-mirror-bootstrap "http://127.0.0.1:3142/cdn.debian.net/debian/" \
 	--mirror-bootstrap "http://127.0.0.1:3142/cdn.debian.net/debian/" \
