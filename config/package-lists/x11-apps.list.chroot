@@ -18,7 +18,7 @@ gstreamer0.10-alsa
 gstreamer0.10-plugins-base
 gstreamer0.10-plugins-good
 ###
-faenza-icon-theme
+#faenza-icon-theme
 tango-icon-theme
 fonts-dejavu
 fonts-liberation
@@ -90,7 +90,7 @@ winff
 #irssi
 #build-essential
 #openjdk-6-jre
-icedtea-plugin
+#icedtea-plugin
 #freemind
 libreoffice-l10n-kk
 libreoffice-l10n-ru
@@ -101,7 +101,7 @@ libreoffice-impress
 libreoffice-draw
 #comix
 #gdebi
-#evince-gtk
+evince-gtk
 xchm
 transmission-gtk
 uget
@@ -191,8 +191,8 @@ synaptic
 adobe-flash-properties-gtk
 adobe-flashplugin
 #minitube
-qpdfview
-qpdfview-djvu-plugin
-qpdfview-ps-plugin
-qpdfview-translations
+#qpdfview
+#qpdfview-djvu-plugin
+#qpdfview-ps-plugin
+#qpdfview-translations
 xterm
