@@ -1,5 +1,5 @@
 [Default Applications]
-application/pdf=qpdfview.desktop;
+application/pdf=evince.desktop;
 application/x-gzip=file-roller.desktop;
 application/x-rar=file-roller.desktop;
 application/x-tar=file-roller.desktop;
@@ -8,7 +8,7 @@ image/jpeg=ristretto.desktop;
 image/png=ristretto.desktop;
 
 [Added Associations]
-application/pdf=qpdfview.desktop;
+application/pdf=evince.desktop;
 application/x-gzip=file-roller.desktop;
 application/x-rar=file-roller.desktop;
 application/x-tar=file-roller.desktop;
