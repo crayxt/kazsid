@@ -19,8 +19,8 @@ lb config noauto \
 	--iso-volume "Kazsid_CD" \
 	--initsystem systemd \
 	--archive-areas "main contrib non-free" \
-	--parent-mirror-bootstrap "http://127.0.0.1:3142/cdn.debian.net/debian/" \
-	--mirror-bootstrap "http://127.0.0.1:3142/cdn.debian.net/debian/" \
+	--parent-mirror-bootstrap "http://127.0.0.1:3142/mirror.yandex.ru/debian/" \
+	--mirror-bootstrap "http://127.0.0.1:3142/mirror.yandex.ru/debian/" \
 	--parent-mirror-binary "http://cdn.debian.net/debian/" \
 	--mirror-binary "http://cdn.debian.net/debian/" \
 	--source false \

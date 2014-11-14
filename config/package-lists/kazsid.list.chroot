@@ -101,7 +101,7 @@ testdisk
 #sleuthkit
 parted
 syslinux
-vim
+vim-tiny
 #minicom
 localepurge
 file
