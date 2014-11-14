@@ -113,3 +113,4 @@ live-config
 live-boot
 live-boot-initramfs-tools
 consolekit
+kpcli
