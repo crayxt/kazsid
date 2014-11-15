@@ -114,3 +114,4 @@ live-boot
 live-boot-initramfs-tools
 consolekit
 kpcli
+lsb-release
