@@ -21,6 +21,7 @@
       <property name="&lt;Super&gt;f" type="string" value="exo-open --launch FileManager"/>
       <property name="&lt;Super&gt;w" type="string" value="exo-open --launch WebBrowser"/>
       <property name="&lt;Super&gt;l" type="string" value="xflock4"/>
+      <property name="&lt;Primary&gt;Super_L" type="string" value="xfrun4"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
