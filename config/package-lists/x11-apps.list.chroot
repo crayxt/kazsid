@@ -79,8 +79,8 @@ mplayer2
 gnome-mplayer
 #volumeicon-alsa
 gnome-keyring
-#libzlui-gtk
-#fbreader
+libzlui-gtk
+fbreader
 gimp
 audacity
 winff
