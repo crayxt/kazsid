@@ -2,5 +2,5 @@
 
 lb clean noauto "${@}"
 
-rm -f config/binary config/bootstrap config/chroot config/common config/source
+rm -f config/binary config/bootstrap config/chroot config/common config/source config/build
 rm -f build.log
