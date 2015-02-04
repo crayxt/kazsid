@@ -1,0 +1,16 @@
+## firmware packages
+firmware-ipw2x00
+firmware-iwlwifi
+firmware-ralink
+firmware-brcm80211
+firmware-realtek
+firmware-bnx2
+firmware-atheros
+firmware-linux-free
+firmware-linux-nonfree
+b43-fwcutter
+bluez-firmware
+#microcode.ctl
+intel-microcode
+firmware-intelwimax
+## end of firmware

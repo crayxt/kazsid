@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Install Kazsid
+Name[kk]=Kazsid-ты орнату
+Name[ru]=Установить Kazsid
+GenericName=Live Installer
+Comment=Install the operating system to disk
+Comment[kk]=Операциялық жүйені дискіге орнату
+Comment[ru]=Установить операционную систему на диск
+Exec=gksudo /usr/bin/live-installer
+Icon=live-installer
+Terminal=False
+Type=Application
+Categories=System;GNOME;GTK;

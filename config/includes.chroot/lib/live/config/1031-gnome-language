@@ -1,0 +1,11 @@
+#!/bin/sh
+
+LOCALE=`cat /etc/default/locale | cut -d"=" -f2`
+
+cat > /var/lib/AccountsService/users/kazsid <<-END
+	[User]
+	Language=$LOCALE
+	XSession=
+	Icon=
+	SystemAccount=false
+	END

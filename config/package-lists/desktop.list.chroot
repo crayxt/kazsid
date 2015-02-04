@@ -1,0 +1,14 @@
+task-gnome-desktop
+task-print-server
+
+plymouth
+plymouth-x11
+
+#if PARENT_DISTRIBUTION wheezy
+plymouth-drm
+#endif
+
+#gstreamer-vaapi
+i965-va-driver
+
+user-setup

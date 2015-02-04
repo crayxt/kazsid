@@ -1,6 +1,0 @@
-#!/bin/sh
-
-set -e
-echo "I: Enable the user list in lightdm login screen"
-
-sed -i 's/#greeter-hide-users=false/greeter-hide-users=false/' /etc/lightdm/lightdm.conf
