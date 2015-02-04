@@ -1,9 +1,0 @@
-#!/bin/sh
-## Workaround for BSM Simple themes not having
-## GTK3 theme. Let's use gtk3 part from Adwaita.
-
-echo "I: Make BSM Simple theme use gtk3 theme from Adwaita"
-cd /usr/share/themes/BSM-Simple-Dark-Panel
-ln -sf ../Adwaita/gtk-3.0
-cd /usr/share/themes/BSM-Simple
-ln -sf ../Adwaita/gtk-3.0

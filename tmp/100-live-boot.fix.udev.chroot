@@ -1,7 +1,0 @@
-#!/bin/bash
-# fix the udev path_id and live-boot
-
-echo "I: Temporary fix for live-boot-initramfs-tools and udev path_id"
-cat /usr/share/initramfs-tools/scripts/live | sed 's/\/lib\/udev\/path_id/\/sbin\/udevadm\ test-builtin\ path_id/g' > /tmp/live
-mv /tmp/live /usr/share/initramfs-tools/scripts/live
-chmod 755 /usr/share/initramfs-tools/scripts/live
