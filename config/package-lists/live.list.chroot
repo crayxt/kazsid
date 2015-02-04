@@ -1,4 +1,5 @@
 live-boot
+live-boot-initramfs-tools
 live-config
 live-config-systemd
 dbus

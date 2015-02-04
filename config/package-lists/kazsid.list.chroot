@@ -68,8 +68,8 @@ aspell-ru
 myspell-ru
 aspell-en
 hunspell-en-us
-moc
-madplay
+#moc
+#madplay
 ## firmware packages
 firmware-ipw2x00
 firmware-iwlwifi
@@ -97,7 +97,7 @@ cifs-utils
 xdelta3
 #fortune-mod
 scalpel
-testdisk
+#testdisk
 #sleuthkit
 parted
 syslinux
@@ -109,9 +109,6 @@ dos2unix
 console-cyrillic
 nfs-common
 lvm2
-live-config
-live-boot
-live-boot-initramfs-tools
 consolekit
 kpcli
 lsb-release
