@@ -1,3 +1,6 @@
+2015-02-01
+* GNOME3 build branch added;
+
 2014-11-06
 * New release;
 * GTK+ and icons theme switched to use Adwaita;
