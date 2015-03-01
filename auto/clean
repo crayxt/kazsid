@@ -4,3 +4,4 @@ lb clean noauto "${@}"
 
 rm -f config/binary config/bootstrap config/chroot config/common config/source config/build
 rm -f build.log
+find config/hooks -type l -delete
