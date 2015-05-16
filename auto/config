@@ -7,7 +7,6 @@ lb config noauto \
 	--apt-source-archives false \
 	-a amd64 \
 	--bootloader syslinux \
-	--bootstrap debootstrap \
 	--cache false \
 	--cache-packages false \
 	--checksums md5 \
