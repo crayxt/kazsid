@@ -76,7 +76,7 @@ remmina-plugin-rdp
 remmina-plugin-vnc
 remmina-plugin-xdmcp
 #fontypython
-mplayer2
+mpv
 #gnome-mplayer
 parole
 #volumeicon-alsa
@@ -138,6 +138,7 @@ xfce4-battery-plugin
 xfce4-xkb-plugin
 xfce4-volumed
 xfce4-mixer
+xfce4-pulseaudio-plugin
 xfburn
 ristretto
 qemu-kvm
