@@ -37,6 +37,7 @@ smbclient
 ## end of something
 #begin of xfce4 group
 xfwm4
+xfwm4-themes
 xfconf
 xfce4-settings
 xfce4-panel
