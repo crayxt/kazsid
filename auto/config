@@ -17,6 +17,7 @@ lb config noauto \
 	--iso-publisher "Kazsid team" \
 	--iso-volume "Kazsid_CD" \
 	--initsystem systemd \
+	--linux-packages "linux-image linux-headers" \
 	--archive-areas "main contrib non-free" \
 	--parent-mirror-bootstrap "http://127.0.0.1:3142/cdn.debian.net/debian/" \
 	--mirror-bootstrap "http://127.0.0.1:3142/cdn.debian.net/debian/" \
